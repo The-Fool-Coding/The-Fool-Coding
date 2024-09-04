@@ -1,8 +1,8 @@
 ## Welcome to The-Fool-Coding 
  <div>
   <a href="https://github.com/The-Fool-Coding">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=The-Fool-Coding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Fool-Coding&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api?username=The-Fool-Coding&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Fool-Coding&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
