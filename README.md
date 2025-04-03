@@ -10,10 +10,10 @@
 <div align="center">  
 
 <a href="https://github.com/The-Fool-Coding">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=The-Fool-Coding&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=The-Fool-Coding&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
 </a>
 <a href="https://github.com/The-Fool-Coding/void-search">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fool-Coding&repo=void-search&theme=dracula" />
+  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fool-Coding&repo=void-search&theme=dracula" />
 </a>
 </div>
 
