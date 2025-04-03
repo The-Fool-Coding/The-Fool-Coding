@@ -8,9 +8,15 @@
 
 
 <div align="center">  
-  <img width="405px" height="250px" src="https://github-readme-stats.vercel.app/api?username=The-Fool-Coding&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="D. Conde" /> 
-  <img width="430px" height="250px" src="https://github-readme-streak-stats.herokuapp.com/?user=The-Fool-Coding&theme=dracula&hide_border=false" />
+
+<a href="https://github.com/The-Fool-Coding">
+  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=The-Fool-Coding&theme=dracula&show_icons=true&hide_border=false&count_private=true" />
+</a>
+<a href="https://github.com/The-Fool-Coding/void-search">
+  <img height=200 width=550 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=The-Fool-Coding&repo=void-search&theme=dracula" />
+</a>
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-Fool-Coding&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
