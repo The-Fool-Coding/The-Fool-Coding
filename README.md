@@ -4,7 +4,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF79C6&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8BE9FD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+David+Conde;I'm+25+years+old;I'm+from+São+Bernardo+Do+Campo,+SP;I+study+computer+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8BE9FD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+David+Conde;I'm+25+years+old;I'm+from+São+Bernardo+Do+Campo,+SP;I'm+an+computer+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
